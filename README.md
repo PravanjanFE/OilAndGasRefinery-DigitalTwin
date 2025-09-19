@@ -43,7 +43,7 @@ By integrating **GIS basemap layers** with **optimized 3D refinery assets** in U
 ## 🔄 How We Actually Built This Thing
 1. **Data Acquisition** → Sourced detailed 3D refinery models from trusted marketplaces  
 2. **GIS Pro** → Exported accurate basemap layers including buildings, roads, and surroundings  
-3. **Unreal Engine Setup** → Initialized project using VR/Blank template with GIS plugins  
+3. **Unreal Engine Setup** → Initialized project from **Blank template** with GIS plugins  
 4. **Level Design** → Imported & placed 3D assets with precise geospatial positioning, applied materials & lighting  
 5. **Interactive Features** → Developed **Location Bookmarks** for intuitive site navigation  
 6. **UI & Development** → Built **custom UI controls** and **integrated monitoring panels**  
@@ -68,5 +68,17 @@ It empowers users to:
 - Conduct immersive staff training & safety simulations  
 
 👉 This system is not only a **management tool** but also a **next-generation safety & training platform**—driving measurable improvements in **operational efficiency** and **safety preparedness**.  
+
+---
+
+## 🔐 Data Privacy & Security
+Our **data handling approach** prioritizes **client data sovereignty** through:  
+- **On-premises deployment**  
+- **Comprehensive security controls**  
+- **Transparent operational practices**  
+
+All solutions operate **within client infrastructure**, ensuring:  
+- Complete **data ownership and control**  
+- Maintenance of **enterprise-grade security standards** throughout the **project lifecycle**
 
 ---

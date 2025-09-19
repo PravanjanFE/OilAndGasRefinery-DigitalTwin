@@ -47,13 +47,13 @@ By integrating **GIS basemap layers** with **optimized 3D refinery assets** in U
 4. **Level Design** → Imported & placed 3D assets with precise geospatial positioning, applied materials & lighting  
 5. **Interactive Features** → Developed **Location Bookmarks** for intuitive site navigation  
 6. **UI & Development** → Built **custom UI controls** and **integrated monitoring panels**  
-7. **Testing & Debugging** → Iterative testing to validate data accuracy and interaction fidelity  
-8. **Deployment** → Packaged as a **Windows build**, optimized for performance  
+7. **Testing & Debugging** → Iterative testing to validate data accuracy and interaction fidelity (this is to be executed as per real time project deployment)
+8. **Deployment** → Packaged as a **Windows build/Pixel Streaming**, optimized for performance  
 
 ---
 
 ## 🎯 Technology Stack
-- **Backend**: ArcGIS Pro (GIS data processing)  
+- **Backend**: GIS data from open sources resources  
 - **Frontend**: Unreal Engine (Blueprints, GIS plugin), Blender, Figma  
 
 ---
